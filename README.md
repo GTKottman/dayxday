@@ -22,6 +22,10 @@ The debug APK will be at:
 
 `app/build/outputs/apk/debug/app-debug.apk`
 
+A pre-built APK is also available at:
+
+`releases/dayxday-v1.0-debug.apk`
+
 ## Install
 
 ```bash
